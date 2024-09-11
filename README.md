@@ -1,4 +1,4 @@
-# Rune Launchpad Typescript
+# Rune Launchpad Backend Typescript
 ---
 Rune Launchpad(Users can claim rune tokens)
 
@@ -89,5 +89,5 @@ npm install bitcoinjs-lib ecpair @bitcoinerlab/secp256k1 axios cbor runelib
 - The script is configured to work with the Bitcoin testnet.
 - Ensure that you have testnet coins available in the provided private key.
 - Adjust the fee and other parameters as needed.
-
+- 
 ---
